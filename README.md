@@ -4,9 +4,7 @@ Created a Machine Learning model to give recommendations of movies based on vari
 # Dataset
 The foundation of the Movies Recommendation System project is built upon a comprehensive dataset meticulously curated for training and evaluating the model. This dataset encompasses a wide range of movie features, offering a rich source of information for understanding the intricate relationships between various features and the resultant movie recommendations.
 
-
-![Uploading image.png…]()
-
+![Uploading image.png…](https://www.filmdaily.tv/film-marketing/how-add-imdb-listing)
 
 # Features
 Data: 1000 inputs * 15 features
