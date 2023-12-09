@@ -10,6 +10,7 @@ The foundation of the Movies Recommendation System project is built upon a compr
 
 # Features
 Data: 1000 inputs * 15 features
+
 Series Title - Name of the movie
 
 Released Year - Year at which that movie released     
