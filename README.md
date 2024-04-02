@@ -3,6 +3,9 @@ Created a Machine Learning model to give recommendations of movies based on vari
 
 
 
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZDJjMTc5NWMtZGRhNi00ZGRmLTk0YWUtOWFkMjJiOGU0ZTgzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+
 # Dataset
 The foundation of the Movies Recommendation System project is built upon a comprehensive dataset meticulously curated for training and evaluating the model. This dataset encompasses a wide range of movie features, offering a rich source of information for understanding the intricate relationships between various features and the resultant movie recommendations.
 
